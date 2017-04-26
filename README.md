@@ -1,6 +1,6 @@
 # npmdoc-array-uniq
 
-#### api documentation for  [array-uniq (v1.0.3)](https://github.com/sindresorhus/array-uniq#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-array-uniq.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-array-uniq) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-array-uniq.svg)](https://travis-ci.org/npmdoc/node-npmdoc-array-uniq)
+#### basic api documentation for  [array-uniq (v1.0.3)](https://github.com/sindresorhus/array-uniq#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-array-uniq.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-array-uniq) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-array-uniq.svg)](https://travis-ci.org/npmdoc/node-npmdoc-array-uniq)
 
 #### Create an array without duplicates
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 
